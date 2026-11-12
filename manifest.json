@@ -1,0 +1,2410 @@
+{
+  "format": "drawing-studio-episode-package",
+  "version": 1,
+  "created": "2026-11-11T13:00:22.274Z",
+  "rendering": {
+    "note": "Each event carries its rendering choice: realistic (procedural texture — realistic rendering, not a photograph) or drawn (stylised). Realism applies to effects, creatures and props only, never to characters.",
+    "globalRealistic": false,
+    "perEvent": {}
+  },
+  "backgroundRendering": {
+    "totalVideoBackedShots": 25,
+    "exact": 25,
+    "fallbackNearest": 0,
+    "nearestPending": 0,
+    "distinctBackgrounds": 25,
+    "shots": [
+      {
+        "scene": 1,
+        "shot": 1,
+        "sceneTitle": "The setup",
+        "requestedVideoTimeSeconds": 178,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 178,
+        "fallbackReason": null
+      },
+      {
+        "scene": 1,
+        "shot": 2,
+        "sceneTitle": "The setup",
+        "requestedVideoTimeSeconds": 5,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 5,
+        "fallbackReason": null
+      },
+      {
+        "scene": 2,
+        "shot": 1,
+        "sceneTitle": "The TV clips",
+        "requestedVideoTimeSeconds": 123,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 123,
+        "fallbackReason": null
+      },
+      {
+        "scene": 3,
+        "shot": 1,
+        "sceneTitle": "The alarm and the smash",
+        "requestedVideoTimeSeconds": 215,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 215,
+        "fallbackReason": null
+      },
+      {
+        "scene": 3,
+        "shot": 2,
+        "sceneTitle": "The alarm and the smash",
+        "requestedVideoTimeSeconds": 339,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 339,
+        "fallbackReason": null
+      },
+      {
+        "scene": 4,
+        "shot": 1,
+        "sceneTitle": "The hiding plan",
+        "requestedVideoTimeSeconds": 343,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 343,
+        "fallbackReason": null
+      },
+      {
+        "scene": 4,
+        "shot": 2,
+        "sceneTitle": "The hiding plan",
+        "requestedVideoTimeSeconds": 216,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 216,
+        "fallbackReason": null
+      },
+      {
+        "scene": 5,
+        "shot": 1,
+        "sceneTitle": "The roof and the goat",
+        "requestedVideoTimeSeconds": 45,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 45,
+        "fallbackReason": null
+      },
+      {
+        "scene": 5,
+        "shot": 2,
+        "sceneTitle": "The roof and the goat",
+        "requestedVideoTimeSeconds": 402,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 402,
+        "fallbackReason": null
+      },
+      {
+        "scene": 6,
+        "shot": 1,
+        "sceneTitle": "The freestyle rap",
+        "requestedVideoTimeSeconds": 603,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 603,
+        "fallbackReason": null
+      },
+      {
+        "scene": 7,
+        "shot": 1,
+        "sceneTitle": "Filet mignon dinner",
+        "requestedVideoTimeSeconds": 270,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 270,
+        "fallbackReason": null
+      },
+      {
+        "scene": 8,
+        "shot": 1,
+        "sceneTitle": "The ladder, the hole, the theft",
+        "requestedVideoTimeSeconds": 485,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 485,
+        "fallbackReason": null
+      },
+      {
+        "scene": 8,
+        "shot": 2,
+        "sceneTitle": "The ladder, the hole, the theft",
+        "requestedVideoTimeSeconds": 490,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 490,
+        "fallbackReason": null
+      },
+      {
+        "scene": 9,
+        "shot": 1,
+        "sceneTitle": "The Drake Bell Cameo",
+        "requestedVideoTimeSeconds": 122,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 122,
+        "fallbackReason": null
+      },
+      {
+        "scene": 10,
+        "shot": 1,
+        "sceneTitle": "Tyler's alarm clocks",
+        "requestedVideoTimeSeconds": 340,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 340,
+        "fallbackReason": null
+      },
+      {
+        "scene": 10,
+        "shot": 2,
+        "sceneTitle": "Tyler's alarm clocks",
+        "requestedVideoTimeSeconds": 405,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 405,
+        "fallbackReason": null
+      },
+      {
+        "scene": 11,
+        "shot": 1,
+        "sceneTitle": "Night one",
+        "requestedVideoTimeSeconds": 520,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 520,
+        "fallbackReason": null
+      },
+      {
+        "scene": 12,
+        "shot": 1,
+        "sceneTitle": "Morning, day two",
+        "requestedVideoTimeSeconds": 805,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 805,
+        "fallbackReason": null
+      },
+      {
+        "scene": 12,
+        "shot": 2,
+        "sceneTitle": "Morning, day two",
+        "requestedVideoTimeSeconds": 830,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 830,
+        "fallbackReason": null
+      },
+      {
+        "scene": 13,
+        "shot": 1,
+        "sceneTitle": "Maddy visits",
+        "requestedVideoTimeSeconds": 521,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 521,
+        "fallbackReason": null
+      },
+      {
+        "scene": 14,
+        "shot": 1,
+        "sceneTitle": "The home stretch",
+        "requestedVideoTimeSeconds": 483,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 483,
+        "fallbackReason": null
+      },
+      {
+        "scene": 15,
+        "shot": 1,
+        "sceneTitle": "The final morning and the time trick",
+        "requestedVideoTimeSeconds": 495,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 495,
+        "fallbackReason": null
+      },
+      {
+        "scene": 15,
+        "shot": 2,
+        "sceneTitle": "The final morning and the time trick",
+        "requestedVideoTimeSeconds": 861,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 861,
+        "fallbackReason": null
+      },
+      {
+        "scene": 16,
+        "shot": 1,
+        "sceneTitle": "The sliming",
+        "requestedVideoTimeSeconds": 804,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 804,
+        "fallbackReason": null
+      },
+      {
+        "scene": 16,
+        "shot": 2,
+        "sceneTitle": "The sliming",
+        "requestedVideoTimeSeconds": 494,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 494,
+        "fallbackReason": null
+      }
+    ],
+    "mode": "per-shot exact seek — each video-backed shot's background is captured by seeking the footage to its videoTimeSeconds; the Background Editor's even sampling is only the fallback, and every fallback is listed per shot under background.source",
+    "renderLog": [
+      {
+        "scene": "The setup",
+        "shotId": "shot-1004",
+        "requestedVideoTimeSeconds": 178,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 178,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:27.387Z"
+      },
+      {
+        "scene": "The setup",
+        "shotId": "shot-1004",
+        "requestedVideoTimeSeconds": 178,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 178,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.077Z"
+      },
+      {
+        "scene": "The setup",
+        "shotId": "shot-1005",
+        "requestedVideoTimeSeconds": 5,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 5,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.130Z"
+      },
+      {
+        "scene": "The TV clips",
+        "shotId": "shot-1008",
+        "requestedVideoTimeSeconds": 123,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 123,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.158Z"
+      },
+      {
+        "scene": "The alarm and the smash",
+        "shotId": "shot-1011",
+        "requestedVideoTimeSeconds": 215,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 215,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.185Z"
+      },
+      {
+        "scene": "The alarm and the smash",
+        "shotId": "shot-1012",
+        "requestedVideoTimeSeconds": 339,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 339,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.206Z"
+      },
+      {
+        "scene": "The hiding plan",
+        "shotId": "shot-1015",
+        "requestedVideoTimeSeconds": 343,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 343,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.228Z"
+      },
+      {
+        "scene": "The hiding plan",
+        "shotId": "shot-1016",
+        "requestedVideoTimeSeconds": 216,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 216,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.242Z"
+      },
+      {
+        "scene": "The roof and the goat",
+        "shotId": "shot-1019",
+        "requestedVideoTimeSeconds": 45,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 45,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.266Z"
+      },
+      {
+        "scene": "The roof and the goat",
+        "shotId": "shot-1020",
+        "requestedVideoTimeSeconds": 402,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 402,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.282Z"
+      },
+      {
+        "scene": "The freestyle rap",
+        "shotId": "shot-1023",
+        "requestedVideoTimeSeconds": 603,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 603,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.312Z"
+      },
+      {
+        "scene": "Filet mignon dinner",
+        "shotId": "shot-1026",
+        "requestedVideoTimeSeconds": 270,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 270,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.328Z"
+      },
+      {
+        "scene": "The ladder, the hole, the theft",
+        "shotId": "shot-1029",
+        "requestedVideoTimeSeconds": 485,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 485,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.356Z"
+      },
+      {
+        "scene": "The ladder, the hole, the theft",
+        "shotId": "shot-1030",
+        "requestedVideoTimeSeconds": 490,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 490,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.367Z"
+      },
+      {
+        "scene": "The Drake Bell Cameo",
+        "shotId": "shot-1033",
+        "requestedVideoTimeSeconds": 122,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 122,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.381Z"
+      },
+      {
+        "scene": "Tyler's alarm clocks",
+        "shotId": "shot-1036",
+        "requestedVideoTimeSeconds": 340,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 340,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.396Z"
+      },
+      {
+        "scene": "Tyler's alarm clocks",
+        "shotId": "shot-1037",
+        "requestedVideoTimeSeconds": 405,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 405,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.419Z"
+      },
+      {
+        "scene": "Night one",
+        "shotId": "shot-1040",
+        "requestedVideoTimeSeconds": 520,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 520,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.433Z"
+      },
+      {
+        "scene": "Morning, day two",
+        "shotId": "shot-1043",
+        "requestedVideoTimeSeconds": 805,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 805,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.461Z"
+      },
+      {
+        "scene": "Morning, day two",
+        "shotId": "shot-1044",
+        "requestedVideoTimeSeconds": 830,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 830,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.471Z"
+      },
+      {
+        "scene": "Maddy visits",
+        "shotId": "shot-1047",
+        "requestedVideoTimeSeconds": 521,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 521,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.499Z"
+      },
+      {
+        "scene": "The home stretch",
+        "shotId": "shot-1050",
+        "requestedVideoTimeSeconds": 483,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 483,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.523Z"
+      },
+      {
+        "scene": "The final morning and the time trick",
+        "shotId": "shot-1053",
+        "requestedVideoTimeSeconds": 495,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 495,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.546Z"
+      },
+      {
+        "scene": "The final morning and the time trick",
+        "shotId": "shot-1054",
+        "requestedVideoTimeSeconds": 861,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 861,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.575Z"
+      },
+      {
+        "scene": "The sliming",
+        "shotId": "shot-1057",
+        "requestedVideoTimeSeconds": 804,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 804,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.591Z"
+      },
+      {
+        "scene": "The sliming",
+        "shotId": "shot-1058",
+        "requestedVideoTimeSeconds": 494,
+        "backgroundSource": "exact",
+        "backgroundFrameSeconds": 494,
+        "fallbackReason": null,
+        "at": "2026-11-11T12:59:34.615Z"
+      }
+    ]
+  },
+  "episode": {
+    "title": "I Spent 50 Hours In Solitary Confinement — Cartoons in Reality",
+    "logline": "Jimmy locks himself in a white room for 50 hours. The boys try everything to get him out. The room is real. The five are cartoons. Jimmy wins — and the boys get slimed.",
+    "style": "familyguy",
+    "styleName": "bold-outline cartoon — big heads, flat colour, prime-time style",
+    "totalSeconds": 422,
+    "sceneCount": 16,
+    "shotCount": 25
+  },
+  "continuity": {
+    "note": "Casting and locations were resolved from the Series Bible and the Sets library at export time. The bible snapshots below are the exact looks used — reload them and every future episode matches.",
+    "characters": [
+      {
+        "role": "Jimmy — the one in the room",
+        "character": "Cartoon Jimmy — the contestant",
+        "characterId": "fig-crew-jimmy",
+        "bible": {
+          "creature": "Contestant",
+          "colors": {
+            "skin": "#F5C99B",
+            "hair": "#3B2F1E",
+            "outfit": "#FF6B1A",
+            "legs": "#1F2937",
+            "beard": "#3B2F1E",
+            "accessory": "#FF6B1A",
+            "accent": "#FF6B1A"
+          },
+          "proportions": {
+            "height": 1.08,
+            "head": 1.25,
+            "bodyWidth": 1,
+            "ears": 0.5
+          },
+          "expression": "grin"
+        }
+      },
+      {
+        "role": "Chris — the mirror-licker",
+        "character": "Cartoon Chris — the mirror-licker",
+        "characterId": "fig-crew-chris",
+        "bible": {
+          "creature": "Tormentor",
+          "colors": {
+            "skin": "#F0C8A0",
+            "hair": "#E8C96A",
+            "outfit": "#0EA5A0",
+            "legs": "#1F2937",
+            "beard": "#E8C96A",
+            "accessory": "#0EA5A0",
+            "accent": "#0EA5A0"
+          },
+          "proportions": {
+            "height": 1,
+            "head": 1.12,
+            "bodyWidth": 1.05,
+            "ears": 0.5
+          },
+          "expression": "tongue"
+        },
+        "expressionOverride": "tongue"
+      },
+      {
+        "role": "Chandler — the tall one",
+        "character": "Cartoon Chandler — the tall one",
+        "characterId": "fig-crew-chandler",
+        "bible": {
+          "creature": "Tormentor",
+          "colors": {
+            "skin": "#D9A066",
+            "hair": "#111827",
+            "outfit": "#DC2626",
+            "legs": "#1F2937",
+            "beard": "#111827",
+            "accessory": "#DC2626",
+            "accent": "#DC2626"
+          },
+          "proportions": {
+            "height": 1.3,
+            "head": 0.9,
+            "bodyWidth": 0.72,
+            "ears": 0.4
+          },
+          "expression": "grin"
+        }
+      },
+      {
+        "role": "Karl — the engineer",
+        "character": "Cartoon Karl — the engineer",
+        "characterId": "fig-crew-karl",
+        "bible": {
+          "creature": "Tormentor",
+          "colors": {
+            "skin": "#E8B88A",
+            "hair": "#6B4A2F",
+            "outfit": "#7C3AED",
+            "legs": "#1F2937",
+            "beard": "#6B4A2F",
+            "accessory": "#7C3AED",
+            "accent": "#7C3AED"
+          },
+          "proportions": {
+            "height": 0.88,
+            "head": 1.15,
+            "bodyWidth": 1.28,
+            "ears": 0.5
+          },
+          "expression": "neutral"
+        }
+      },
+      {
+        "role": "Tyler — the alarm-clock guy",
+        "character": "Cartoon Tyler — the alarm-clock guy",
+        "characterId": "fig-crew-tyler",
+        "bible": {
+          "creature": "Tormentor",
+          "colors": {
+            "skin": "#F5C99B",
+            "hair": "#4A2E15",
+            "outfit": "#EAB308",
+            "legs": "#1F2937",
+            "beard": "#4A2E15",
+            "accessory": "#EAB308",
+            "accent": "#EAB308"
+          },
+          "proportions": {
+            "height": 1.02,
+            "head": 1.05,
+            "bodyWidth": 1,
+            "ears": 0.5
+          },
+          "expression": "surprised"
+        }
+      }
+    ],
+    "sets": [
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "The setup",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Jimmy locks himself into the small white room for fifty hours. The stakes are slime: leave early and Jimmy gets slimed; survive all fifty hours and ALL the boys get slimed. Chris licks the one-way mirror.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Chris — the mirror-licker",
+          "character": "Cartoon Chris — the mirror-licker",
+          "characterId": "fig-crew-chris",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F0C8A0",
+              "hair": "#E8C96A",
+              "outfit": "#0EA5A0",
+              "legs": "#1F2937",
+              "beard": "#E8C96A",
+              "accessory": "#0EA5A0",
+              "accent": "#0EA5A0"
+            },
+            "proportions": {
+              "height": 1,
+              "head": 1.12,
+              "bodyWidth": 1.05,
+              "ears": 0.5
+            },
+            "expression": "tongue"
+          },
+          "expressionOverride": "tongue"
+        },
+        {
+          "role": "Chandler — the tall one",
+          "character": "Cartoon Chandler — the tall one",
+          "characterId": "fig-crew-chandler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#D9A066",
+              "hair": "#111827",
+              "outfit": "#DC2626",
+              "legs": "#1F2937",
+              "beard": "#111827",
+              "accessory": "#DC2626",
+              "accent": "#DC2626"
+            },
+            "proportions": {
+              "height": 1.3,
+              "head": 0.9,
+              "bodyWidth": 0.72,
+              "ears": 0.4
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Karl — the engineer",
+          "character": "Cartoon Karl — the engineer",
+          "characterId": "fig-crew-karl",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#E8B88A",
+              "hair": "#6B4A2F",
+              "outfit": "#7C3AED",
+              "legs": "#1F2937",
+              "beard": "#6B4A2F",
+              "accessory": "#7C3AED",
+              "accent": "#7C3AED"
+            },
+            "proportions": {
+              "height": 0.88,
+              "head": 1.15,
+              "bodyWidth": 1.28,
+              "ears": 0.5
+            },
+            "expression": "neutral"
+          }
+        },
+        {
+          "role": "Tyler — the alarm-clock guy",
+          "character": "Cartoon Tyler — the alarm-clock guy",
+          "characterId": "fig-crew-tyler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#4A2E15",
+              "outfit": "#EAB308",
+              "legs": "#1F2937",
+              "beard": "#4A2E15",
+              "accessory": "#EAB308",
+              "accent": "#EAB308"
+            },
+            "proportions": {
+              "height": 1.02,
+              "head": 1.05,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "surprised"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-001.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 18,
+          "startsAtSeconds": 0,
+          "endsAtSeconds": 18,
+          "action": "Jimmy locks himself into the small white room. Chris licks the one-way mirror.",
+          "dialogue": "Fifty hours. One room. No escape — unless he quits.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 0,
+          "videoTimeSeconds": 178,
+          "background": {
+            "requestedVideoTimeSeconds": 178,
+            "source": "exact",
+            "frameSecondsUsed": 178,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-002.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 12,
+          "startsAtSeconds": 18,
+          "endsAtSeconds": 30,
+          "action": "The stakes: leave early and Jimmy gets slimed; survive fifty hours and ALL the boys get slimed.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 0,
+          "videoTimeSeconds": 5,
+          "background": {
+            "requestedVideoTimeSeconds": 5,
+            "source": "exact",
+            "frameSecondsUsed": 5,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "title": "The TV clips",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The boys control the TV from outside the room: a croissant loop, then Minecraft cats, on repeat.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 20,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-003.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 20,
+          "startsAtSeconds": 30,
+          "endsAtSeconds": 50,
+          "action": "The boys control the TV from outside: a croissant loop, then Minecraft cats, on repeat.",
+          "dialogue": "The boys own the TV now.",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 30,
+              "sound": "whoosh",
+              "label": "croissant line"
+            },
+            {
+              "atSecondsInShot": 8,
+              "atSecondsInEpisode": 38,
+              "sound": "sparkle",
+              "label": "Minecraft cats"
+            }
+          ],
+          "timerHours": 1,
+          "videoTimeSeconds": 123,
+          "background": {
+            "requestedVideoTimeSeconds": 123,
+            "source": "exact",
+            "frameSecondsUsed": 123,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "title": "The alarm and the smash",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The iPhone alarm shrieks and Jimmy snaps — he smashes the speakers with the tripod.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          },
+          "expressionOverride": "angry"
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-004.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 15,
+          "startsAtSeconds": 50,
+          "endsAtSeconds": 65,
+          "action": "The iPhone alarm shrieks. Jimmy snaps.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 50,
+              "sound": "sparkle",
+              "label": "iPhone alarm"
+            }
+          ],
+          "timerHours": 3,
+          "videoTimeSeconds": 215,
+          "background": {
+            "requestedVideoTimeSeconds": 215,
+            "source": "exact",
+            "frameSecondsUsed": 215,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-005.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 15,
+          "startsAtSeconds": 65,
+          "endsAtSeconds": 80,
+          "action": "Jimmy smashes the speakers with the tripod.",
+          "dialogue": "Jimmy has had enough of that alarm.",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 65,
+              "sound": "crash",
+              "label": "crash"
+            }
+          ],
+          "timerHours": 3,
+          "videoTimeSeconds": 339,
+          "background": {
+            "requestedVideoTimeSeconds": 339,
+            "source": "exact",
+            "frameSecondsUsed": 339,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "title": "The hiding plan",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The boys block the door and cover the mirror and the cameras. Hank on the radio, checking the plan: Clouds?",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Chandler — the tall one",
+          "character": "Cartoon Chandler — the tall one",
+          "characterId": "fig-crew-chandler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#D9A066",
+              "hair": "#111827",
+              "outfit": "#DC2626",
+              "legs": "#1F2937",
+              "beard": "#111827",
+              "accessory": "#DC2626",
+              "accent": "#DC2626"
+            },
+            "proportions": {
+              "height": 1.3,
+              "head": 0.9,
+              "bodyWidth": 0.72,
+              "ears": 0.4
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Karl — the engineer",
+          "character": "Cartoon Karl — the engineer",
+          "characterId": "fig-crew-karl",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#E8B88A",
+              "hair": "#6B4A2F",
+              "outfit": "#7C3AED",
+              "legs": "#1F2937",
+              "beard": "#6B4A2F",
+              "accessory": "#7C3AED",
+              "accent": "#7C3AED"
+            },
+            "proportions": {
+              "height": 0.88,
+              "head": 1.15,
+              "bodyWidth": 1.28,
+              "ears": 0.5
+            },
+            "expression": "neutral"
+          }
+        },
+        {
+          "role": "Tyler — the alarm-clock guy",
+          "character": "Cartoon Tyler — the alarm-clock guy",
+          "characterId": "fig-crew-tyler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#4A2E15",
+              "outfit": "#EAB308",
+              "legs": "#1F2937",
+              "beard": "#4A2E15",
+              "accessory": "#EAB308",
+              "accent": "#EAB308"
+            },
+            "proportions": {
+              "height": 1.02,
+              "head": 1.05,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "surprised"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-006.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 16,
+          "startsAtSeconds": 80,
+          "endsAtSeconds": 96,
+          "action": "The boys block the door and cover the mirror and the cameras.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 5,
+          "videoTimeSeconds": 343,
+          "background": {
+            "requestedVideoTimeSeconds": 343,
+            "source": "exact",
+            "frameSecondsUsed": 343,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-007.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 14,
+          "startsAtSeconds": 96,
+          "endsAtSeconds": 110,
+          "action": "Hank on the radio, checking the plan: Clouds?",
+          "dialogue": "Clouds?",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 96,
+              "sound": "whoosh",
+              "label": "Hank says Clouds?"
+            }
+          ],
+          "timerHours": 5,
+          "videoTimeSeconds": 216,
+          "background": {
+            "requestedVideoTimeSeconds": 216,
+            "source": "exact",
+            "frameSecondsUsed": 216,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "title": "The roof and the goat",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Karl climbs onto the roof above the room. Then: the screaming goat.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Karl — the engineer",
+          "character": "Cartoon Karl — the engineer",
+          "characterId": "fig-crew-karl",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#E8B88A",
+              "hair": "#6B4A2F",
+              "outfit": "#7C3AED",
+              "legs": "#1F2937",
+              "beard": "#6B4A2F",
+              "accessory": "#7C3AED",
+              "accent": "#7C3AED"
+            },
+            "proportions": {
+              "height": 0.88,
+              "head": 1.15,
+              "bodyWidth": 1.28,
+              "ears": 0.5
+            },
+            "expression": "neutral"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 28,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-008.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 14,
+          "startsAtSeconds": 110,
+          "endsAtSeconds": 124,
+          "action": "Karl climbs onto the roof above the room.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 8,
+          "videoTimeSeconds": 45,
+          "background": {
+            "requestedVideoTimeSeconds": 45,
+            "source": "exact",
+            "frameSecondsUsed": 45,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-009.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 14,
+          "startsAtSeconds": 124,
+          "endsAtSeconds": 138,
+          "action": "The screaming goat.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 124,
+              "sound": "whoosh",
+              "label": "screaming goat"
+            }
+          ],
+          "timerHours": 8,
+          "videoTimeSeconds": 402,
+          "background": {
+            "requestedVideoTimeSeconds": 402,
+            "source": "exact",
+            "frameSecondsUsed": 402,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "title": "The freestyle rap",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The freestyle rap is lowered into the room on a rope.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Chandler — the tall one",
+          "character": "Cartoon Chandler — the tall one",
+          "characterId": "fig-crew-chandler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#D9A066",
+              "hair": "#111827",
+              "outfit": "#DC2626",
+              "legs": "#1F2937",
+              "beard": "#111827",
+              "accessory": "#DC2626",
+              "accent": "#DC2626"
+            },
+            "proportions": {
+              "height": 1.3,
+              "head": 0.9,
+              "bodyWidth": 0.72,
+              "ears": 0.4
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 20,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-010.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 20,
+          "startsAtSeconds": 138,
+          "endsAtSeconds": 158,
+          "action": "The freestyle rap is lowered into the room on a rope.",
+          "dialogue": "The rap comes down on a rope.",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 138,
+              "sound": "whoosh",
+              "label": "freestyle rap"
+            }
+          ],
+          "timerHours": 10,
+          "videoTimeSeconds": 603,
+          "background": {
+            "requestedVideoTimeSeconds": 603,
+            "source": "exact",
+            "frameSecondsUsed": 603,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "rapdrop"
+        }
+      ]
+    },
+    {
+      "scene": 7,
+      "title": "Filet mignon dinner",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Dinner through the hatch: filet mignon, served like a king.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 20,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-011.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 20,
+          "startsAtSeconds": 158,
+          "endsAtSeconds": 178,
+          "action": "Dinner through the hatch: filet mignon, served like a king.",
+          "dialogue": "Filet mignon. Through the hatch.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 14,
+          "videoTimeSeconds": 270,
+          "background": {
+            "requestedVideoTimeSeconds": 270,
+            "source": "exact",
+            "frameSecondsUsed": 270,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "steak"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "title": "The ladder, the hole, the theft",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "A ladder appears at the wall. Karl puts a hole through it — and Jimmy reaches through the hole and steals the speakers back.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Karl — the engineer",
+          "character": "Cartoon Karl — the engineer",
+          "characterId": "fig-crew-karl",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#E8B88A",
+              "hair": "#6B4A2F",
+              "outfit": "#7C3AED",
+              "legs": "#1F2937",
+              "beard": "#6B4A2F",
+              "accessory": "#7C3AED",
+              "accent": "#7C3AED"
+            },
+            "proportions": {
+              "height": 0.88,
+              "head": 1.15,
+              "bodyWidth": 1.28,
+              "ears": 0.5
+            },
+            "expression": "neutral"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-012.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 15,
+          "startsAtSeconds": 178,
+          "endsAtSeconds": 193,
+          "action": "A ladder appears at the wall. Karl puts a hole through it.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 18,
+          "videoTimeSeconds": 485,
+          "background": {
+            "requestedVideoTimeSeconds": 485,
+            "source": "exact",
+            "frameSecondsUsed": 485,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "ladder"
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-013.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 15,
+          "startsAtSeconds": 193,
+          "endsAtSeconds": 208,
+          "action": "Jimmy reaches through the hole and steals the speakers back.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 18,
+          "videoTimeSeconds": 490,
+          "background": {
+            "requestedVideoTimeSeconds": 490,
+            "source": "exact",
+            "frameSecondsUsed": 490,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "speakers"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "title": "The Drake Bell Cameo",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The Drake Bell Cameo plays on the TV — and backfires on the boys.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 22,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-014.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 22,
+          "startsAtSeconds": 208,
+          "endsAtSeconds": 230,
+          "action": "The Drake Bell Cameo plays on the TV — and backfires on the boys.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 20,
+          "videoTimeSeconds": 122,
+          "background": {
+            "requestedVideoTimeSeconds": 122,
+            "source": "exact",
+            "frameSecondsUsed": 122,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "draketv"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "title": "Tyler's alarm clocks",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Tyler arrives with a bag of alarm clocks — forty-seven promised, only nine in the bag. Then the siren: all nine clocks screaming at once.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          },
+          "expressionOverride": "angry"
+        },
+        {
+          "role": "Tyler — the alarm-clock guy",
+          "character": "Cartoon Tyler — the alarm-clock guy",
+          "characterId": "fig-crew-tyler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#4A2E15",
+              "outfit": "#EAB308",
+              "legs": "#1F2937",
+              "beard": "#4A2E15",
+              "accessory": "#EAB308",
+              "accent": "#EAB308"
+            },
+            "proportions": {
+              "height": 1.02,
+              "head": 1.05,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "surprised"
+          },
+          "expressionOverride": "surprised"
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-015.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 15,
+          "startsAtSeconds": 230,
+          "endsAtSeconds": 245,
+          "action": "Tyler arrives with a bag of alarm clocks — forty-seven promised, only nine in the bag.",
+          "dialogue": "Forty-seven clocks, he said. Nine in the bag.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 22,
+          "videoTimeSeconds": 340,
+          "background": {
+            "requestedVideoTimeSeconds": 340,
+            "source": "exact",
+            "frameSecondsUsed": 340,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "clockpile"
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-016.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 15,
+          "startsAtSeconds": 245,
+          "endsAtSeconds": 260,
+          "action": "The siren. All nine clocks screaming at once.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 245,
+              "sound": "sparkle",
+              "label": "alarm clocks"
+            }
+          ],
+          "timerHours": 22,
+          "videoTimeSeconds": 405,
+          "background": {
+            "requestedVideoTimeSeconds": 405,
+            "source": "exact",
+            "frameSecondsUsed": 405,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "clockpile"
+        }
+      ]
+    },
+    {
+      "scene": 11,
+      "title": "Night one",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Night one. The room hums. Jimmy is alone with the cameras.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 24,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-017.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 24,
+          "startsAtSeconds": 260,
+          "endsAtSeconds": 284,
+          "action": "Night one. The room hums. Jimmy is alone with the cameras.",
+          "dialogue": "Night one. Just Jimmy and the hum of the cameras.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 24,
+          "videoTimeSeconds": 520,
+          "background": {
+            "requestedVideoTimeSeconds": 520,
+            "source": "exact",
+            "frameSecondsUsed": 520,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 12,
+      "title": "Morning, day two",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Morning, day two. Jimmy breaks the TV — then cake, lasagna and chicken arrive, and Jimmy eats like a king.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          },
+          "expressionOverride": "angry"
+        }
+      ],
+      "events": [],
+      "durationSeconds": 32,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-018.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 16,
+          "startsAtSeconds": 284,
+          "endsAtSeconds": 300,
+          "action": "Morning, day two. Jimmy breaks the TV.",
+          "dialogue": "Day two. The TV doesn't survive the morning.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 30,
+          "videoTimeSeconds": 805,
+          "background": {
+            "requestedVideoTimeSeconds": 805,
+            "source": "exact",
+            "frameSecondsUsed": 805,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-019.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 16,
+          "startsAtSeconds": 300,
+          "endsAtSeconds": 316,
+          "action": "Cake, lasagna and chicken arrive. Jimmy eats like a king.",
+          "dialogue": "",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 30,
+          "videoTimeSeconds": 830,
+          "background": {
+            "requestedVideoTimeSeconds": 830,
+            "source": "exact",
+            "frameSecondsUsed": 830,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 13,
+      "title": "Maddy visits",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Maddy visits at Hour 35. A voice at the door — the one visitor who is not one of the five. She tries to lure Jimmy out; he refuses, deadpan. She is heard, not seen.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 22,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-020.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 22,
+          "startsAtSeconds": 316,
+          "endsAtSeconds": 338,
+          "action": "Maddy visits at Hour 35. A voice at the door — she tries to lure Jimmy out; he refuses.",
+          "dialogue": "Hour thirty-five. A voice at the door.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 35,
+          "videoTimeSeconds": 521,
+          "background": {
+            "requestedVideoTimeSeconds": 521,
+            "source": "exact",
+            "frameSecondsUsed": 521,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 14,
+      "title": "The home stretch",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The home stretch. The boys are running out of ideas. Jimmy is running out of patience.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 24,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-021.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 24,
+          "startsAtSeconds": 338,
+          "endsAtSeconds": 362,
+          "action": "The home stretch. The boys are running out of ideas. Jimmy is running out of patience.",
+          "dialogue": "The home stretch. The boys are out of ideas.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 44,
+          "videoTimeSeconds": 483,
+          "background": {
+            "requestedVideoTimeSeconds": 483,
+            "source": "exact",
+            "frameSecondsUsed": 483,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 15,
+      "title": "The final morning and the time trick",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "The final morning. Fifty hours. Jimmy reaches for the door — but the boys talk him into staying one more hour, and Jimmy closes the door on himself.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Chris — the mirror-licker",
+          "character": "Cartoon Chris — the mirror-licker",
+          "characterId": "fig-crew-chris",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F0C8A0",
+              "hair": "#E8C96A",
+              "outfit": "#0EA5A0",
+              "legs": "#1F2937",
+              "beard": "#E8C96A",
+              "accessory": "#0EA5A0",
+              "accent": "#0EA5A0"
+            },
+            "proportions": {
+              "height": 1,
+              "head": 1.12,
+              "bodyWidth": 1.05,
+              "ears": 0.5
+            },
+            "expression": "tongue"
+          }
+        },
+        {
+          "role": "Chandler — the tall one",
+          "character": "Cartoon Chandler — the tall one",
+          "characterId": "fig-crew-chandler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#D9A066",
+              "hair": "#111827",
+              "outfit": "#DC2626",
+              "legs": "#1F2937",
+              "beard": "#111827",
+              "accessory": "#DC2626",
+              "accent": "#DC2626"
+            },
+            "proportions": {
+              "height": 1.3,
+              "head": 0.9,
+              "bodyWidth": 0.72,
+              "ears": 0.4
+            },
+            "expression": "grin"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-022.png",
+          "camera": "three-quarter",
+          "cameraDescription": "three-quarter shot — the classic angle",
+          "durationSeconds": 15,
+          "startsAtSeconds": 362,
+          "endsAtSeconds": 377,
+          "action": "The final morning. Fifty hours. Jimmy reaches for the door.",
+          "dialogue": "Fifty hours. Jimmy reaches for the door.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 50,
+          "videoTimeSeconds": 495,
+          "background": {
+            "requestedVideoTimeSeconds": 495,
+            "source": "exact",
+            "frameSecondsUsed": 495,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-023.png",
+          "camera": "close-up",
+          "cameraDescription": "close-up — tight on the face",
+          "durationSeconds": 15,
+          "startsAtSeconds": 377,
+          "endsAtSeconds": 392,
+          "action": "The trick: the boys talk him into staying one more hour. Jimmy closes the door on himself.",
+          "dialogue": "One more hour, they say. Jimmy closes the door on himself.",
+          "event": null,
+          "soundCues": [],
+          "timerHours": 51,
+          "videoTimeSeconds": 861,
+          "background": {
+            "requestedVideoTimeSeconds": 861,
+            "source": "exact",
+            "frameSecondsUsed": 861,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        }
+      ]
+    },
+    {
+      "scene": 16,
+      "title": "The sliming",
+      "set": {
+        "id": "solitary-room",
+        "name": "The Solitary Room"
+      },
+      "script": "Fifty-one hours. The door opens — and the payoff lands: ALL the boys get slimed, while Jimmy walks free.",
+      "template": "The Siege — one vs. the group",
+      "cast": [
+        {
+          "role": "Jimmy — the one in the room",
+          "character": "Cartoon Jimmy — the contestant",
+          "characterId": "fig-crew-jimmy",
+          "bible": {
+            "creature": "Contestant",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#3B2F1E",
+              "outfit": "#FF6B1A",
+              "legs": "#1F2937",
+              "beard": "#3B2F1E",
+              "accessory": "#FF6B1A",
+              "accent": "#FF6B1A"
+            },
+            "proportions": {
+              "height": 1.08,
+              "head": 1.25,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Chris — the mirror-licker",
+          "character": "Cartoon Chris — the mirror-licker",
+          "characterId": "fig-crew-chris",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F0C8A0",
+              "hair": "#E8C96A",
+              "outfit": "#0EA5A0",
+              "legs": "#1F2937",
+              "beard": "#E8C96A",
+              "accessory": "#0EA5A0",
+              "accent": "#0EA5A0"
+            },
+            "proportions": {
+              "height": 1,
+              "head": 1.12,
+              "bodyWidth": 1.05,
+              "ears": 0.5
+            },
+            "expression": "tongue"
+          }
+        },
+        {
+          "role": "Chandler — the tall one",
+          "character": "Cartoon Chandler — the tall one",
+          "characterId": "fig-crew-chandler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#D9A066",
+              "hair": "#111827",
+              "outfit": "#DC2626",
+              "legs": "#1F2937",
+              "beard": "#111827",
+              "accessory": "#DC2626",
+              "accent": "#DC2626"
+            },
+            "proportions": {
+              "height": 1.3,
+              "head": 0.9,
+              "bodyWidth": 0.72,
+              "ears": 0.4
+            },
+            "expression": "grin"
+          }
+        },
+        {
+          "role": "Karl — the engineer",
+          "character": "Cartoon Karl — the engineer",
+          "characterId": "fig-crew-karl",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#E8B88A",
+              "hair": "#6B4A2F",
+              "outfit": "#7C3AED",
+              "legs": "#1F2937",
+              "beard": "#6B4A2F",
+              "accessory": "#7C3AED",
+              "accent": "#7C3AED"
+            },
+            "proportions": {
+              "height": 0.88,
+              "head": 1.15,
+              "bodyWidth": 1.28,
+              "ears": 0.5
+            },
+            "expression": "neutral"
+          }
+        },
+        {
+          "role": "Tyler — the alarm-clock guy",
+          "character": "Cartoon Tyler — the alarm-clock guy",
+          "characterId": "fig-crew-tyler",
+          "bible": {
+            "creature": "Tormentor",
+            "colors": {
+              "skin": "#F5C99B",
+              "hair": "#4A2E15",
+              "outfit": "#EAB308",
+              "legs": "#1F2937",
+              "beard": "#4A2E15",
+              "accessory": "#EAB308",
+              "accent": "#EAB308"
+            },
+            "proportions": {
+              "height": 1.02,
+              "head": 1.05,
+              "bodyWidth": 1,
+              "ears": 0.5
+            },
+            "expression": "surprised"
+          }
+        }
+      ],
+      "events": [],
+      "durationSeconds": 30,
+      "shots": [
+        {
+          "shot": 1,
+          "frameFile": "shot-024.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 15,
+          "startsAtSeconds": 392,
+          "endsAtSeconds": 407,
+          "action": "Fifty-one hours. The door opens.",
+          "dialogue": "Fifty-one hours. The door opens.",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 392,
+              "sound": "whoosh",
+              "label": "leaf blower"
+            }
+          ],
+          "timerHours": 51,
+          "videoTimeSeconds": 804,
+          "background": {
+            "requestedVideoTimeSeconds": 804,
+            "source": "exact",
+            "frameSecondsUsed": 804,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          }
+        },
+        {
+          "shot": 2,
+          "frameFile": "shot-025.png",
+          "camera": "wide",
+          "cameraDescription": "wide shot — the whole set",
+          "durationSeconds": 15,
+          "startsAtSeconds": 407,
+          "endsAtSeconds": 422,
+          "action": "The payoff: ALL the boys get slimed, while Jimmy walks free.",
+          "dialogue": "The payoff. Every single one of them — slimed.",
+          "event": null,
+          "soundCues": [
+            {
+              "atSecondsInShot": 0,
+              "atSecondsInEpisode": 407,
+              "sound": "thud",
+              "label": "slime dump"
+            }
+          ],
+          "timerHours": 51,
+          "videoTimeSeconds": 494,
+          "background": {
+            "requestedVideoTimeSeconds": 494,
+            "source": "exact",
+            "frameSecondsUsed": 494,
+            "fallbackReason": null,
+            "note": "Background rendered from the frame sought at the exact videoTimeSeconds."
+          },
+          "prop": "slime"
+        }
+      ]
+    }
+  ],
+  "soundCues": [
+    {
+      "scene": 2,
+      "shot": 1,
+      "atSeconds": 30,
+      "sound": "whoosh",
+      "label": "croissant line"
+    },
+    {
+      "scene": 2,
+      "shot": 1,
+      "atSeconds": 38,
+      "sound": "sparkle",
+      "label": "Minecraft cats"
+    },
+    {
+      "scene": 3,
+      "shot": 1,
+      "atSeconds": 50,
+      "sound": "sparkle",
+      "label": "iPhone alarm"
+    },
+    {
+      "scene": 3,
+      "shot": 2,
+      "atSeconds": 65,
+      "sound": "crash",
+      "label": "crash"
+    },
+    {
+      "scene": 4,
+      "shot": 2,
+      "atSeconds": 96,
+      "sound": "whoosh",
+      "label": "Hank says Clouds?"
+    },
+    {
+      "scene": 5,
+      "shot": 2,
+      "atSeconds": 124,
+      "sound": "whoosh",
+      "label": "screaming goat"
+    },
+    {
+      "scene": 6,
+      "shot": 1,
+      "atSeconds": 138,
+      "sound": "whoosh",
+      "label": "freestyle rap"
+    },
+    {
+      "scene": 10,
+      "shot": 2,
+      "atSeconds": 245,
+      "sound": "sparkle",
+      "label": "alarm clocks"
+    },
+    {
+      "scene": 16,
+      "shot": 1,
+      "atSeconds": 392,
+      "sound": "whoosh",
+      "label": "leaf blower"
+    },
+    {
+      "scene": 16,
+      "shot": 2,
+      "atSeconds": 407,
+      "sound": "thud",
+      "label": "slime dump"
+    }
+  ],
+  "audioTimeline": {
+    "note": "For this episode only — \"I Spent 50 Hours In Solitary Confinement\" (crew-5): the voice track is the real footage audio at each shot's videoTimeSeconds — the real people speaking in MrBeast's video at that shot's moment, by Nick's explicit direction (Nov 10, 2026). No synthetic voices, no voice cloning, and no dialogue lines are produced in voice slots. The synthetic tone cues (whoosh / sparkle / thud and the other studio tones) are sound effects only, mixed at their cue seconds on top of the footage audio. Music files come from the user's own licensed/free library; the studio ships no music.",
+    "dialogue": [],
+    "soundEffects": [],
+    "music": [],
+    "voiceTrack": "Real footage audio at each shot's videoTimeSeconds — the real audio from MrBeast's video at that shot's moment. No synthetic voices, no voice cloning."
+  },
+  "frames": {
+    "directory": "episode-frames/",
+    "pattern": "shot-%03d.png",
+    "stageWidth": 800,
+    "stageHeight": 600,
+    "note": "One PNG per shot, in timeline order; each is held for its shot's durationSeconds by the assembly step."
+  },
+  "assembly": {
+    "perShot": "ffmpeg -loop 1 -t <shot durationSeconds> -i episode-frames/shot-%03d.png -c:v libx264 -pix_fmt yuv420p scene-<scene>-shot-<shot>.mp4",
+    "concat": "ffmpeg -f concat -safe 0 -i scenes.txt -c copy episode-final.mp4",
+    "audio": "Voice track: the real footage audio — for each shot, take the audio from MrBeast's video at that shot's videoTimeSeconds and lay it under that shot, so the voices are the real people speaking in the footage itself, by Nick's explicit direction (Nov 10, 2026). No synthetic voices, no voice cloning, and no dialogue lines are produced in voice slots for this episode. Sound effects only: mix each soundCues entry at its atSeconds (ffmpeg adelay + amix) and each audioTimeline soundEffects entry at its atSecondsInEpisode — the synthetic tone cues (whoosh / sparkle / thud and the other studio tones) are sound effects only. Lay the music slot's file (supplied from the user's own licensed/free library — the studio ships no music) from its startSeconds at its volume, under everything.",
+    "preview": "The studio's Play preview is compressed; this EDL's seconds are exact."
+  },
+  "realism": "Event effects in episode frames are drawn/stylised cartoon effects, labelled as such in the Event Library — not photoreal. The CG style path models gradient light on every form; the 3D stage is real geometry with one key light.",
+  "boundary": "This episode uses the actual footage of MrBeast's I Spent 50 Hours In Solitary Confinement (video r7zJ8srwwjk) by Nick's explicit direction for this video only (Nov 10, 2026). The five cartoon characters replace the real people entirely — not a face swap, not a deepfake — and the room stays the real footage. The voices are the real people speaking in the footage itself — the real audio from MrBeast's video at each shot's moment, by Nick's explicit direction (Nov 10, 2026). No synthetic voices, no voice cloning. Every other episode follows the studio rule: templates hold blocking, camera and timing only — no footage, no real person's face or likeness, no face swap. Casting uses only the studio's fictional characters; styles are stylised parody figures."
+}
